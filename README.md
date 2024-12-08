@@ -23,3 +23,6 @@ The configuration uses variables and resources to automate the deployment of a V
 3. Plan the Deployment.
    
 4. Apply the Configuration.
+
+## **License**
+This project is licensed under the MIT License.
