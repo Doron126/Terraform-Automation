@@ -13,7 +13,7 @@ The configuration uses variables and resources to automate the deployment of a V
 ## **Instructions**
 1. Clone the repository
 2. Export environment variables:
-   '''bash
+   ```bash
    export TF_VAR_vsphere_user="your_vsphere_username"
    export TF_VAR_vsphere_password="your_vsphere_password"
    export TF_VAR_vsphere_server="your_vsphere_server_address"
